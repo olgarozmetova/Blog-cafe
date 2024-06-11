@@ -1,3 +1,11 @@
 # Coffee Blog Website
 
-Simple coffee blog offering courses.
+A coffee blog website offering tips and courses. This website is built with HTML and CSS.
+
+## Features
+
+- Responsive design
+- CSS Grid
+- Form & input
+
+<img src="img/screen.png"  />
