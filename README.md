@@ -6,6 +6,6 @@ A coffee blog website offering tips and courses. This website is built with HTML
 
 - Responsive design
 - CSS Grid
-- Form & input
+- Form & input styles
 
 <img src="img/screen.png"  />
